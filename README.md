@@ -1,0 +1,1 @@
+# kernel-3.18-nougat-mt6737m
